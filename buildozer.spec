@@ -14,3 +14,4 @@ minapi = 21
 
 [buildozer]
 log_level = 2
+
