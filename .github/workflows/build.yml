@@ -16,3 +16,4 @@ jobs:
       with:
         name: sklad-app
         path: bin/*.apk
+
